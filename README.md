@@ -17,15 +17,6 @@ Este es un proyecto simple pero poderoso desarrollado en Python, pensado como un
 
 ---
 
-## 🧱 Estructura del proyecto
-TaskManager/
-│
-├── gestor.py # Archivo principal con el menú de tareas
-├── utilidades.py # Funciones y clase Tarea
-└── README.md # Este archivo :)
-
----
-
 ## 🔮 Lo que se viene (v2 y más)
 
 - 💾 **Guardar tareas en archivo JSON** para persistencia entre ejecuciones
